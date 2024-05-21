@@ -1,4 +1,4 @@
-# HNU-6059 
+# HNU-6059 / HNU-3059 - Humanités numériques : langages de programmation
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
